@@ -1,0 +1,66 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="startButton">
+        <item name="android:background">@color/colorStartButton</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/colorTextButton</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="nextButton">
+        <item name="android:background">@color/colorNextButton</item>
+        <item name="android:textColor">@color/colorTextButton</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="settingHeader">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/colorTextHeader</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="descriptSettings">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textColor">@color/colorDesc</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="varSettings">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textAlignment">textEnd</item>
+        <item name="android:textColor">@color/colorVar</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="folderPathSettings">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/colorVar</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="switchStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:buttonTint">@color/colorAccent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textColor">@color/colorDesc</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>

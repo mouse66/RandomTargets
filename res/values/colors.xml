@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D53FC</color>
+    <color name="colorPrimaryDark">#2F32F5</color>
+    <color name="colorAccent">#3573E6</color>
+    <color name="colorBlue">#2D98FC</color>
+    <color name="colorLightBlue">#2CB3F2</color>
+
+    <color name="colorTextHeader">#3573E6</color>
+
+    <color name="colorNextButton">#2F32F5</color>
+    <color name="colorStartButton">#669900</color>
+
+    <color name="colorTextButton">#ffffff</color>
+    <color name="colorDesc">#212121</color>
+    <color name="colorVar">#2F32F5</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="colorTask">#2F32F5</color>
+
+    <color name="colorLightGray">@android:color/darker_gray</color>
+</resources>

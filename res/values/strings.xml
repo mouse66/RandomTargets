@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Случайные Мишени</string>
+    <string name="title_activity_settings">Настройки</string>
+
+    <string name="filePaths">Папки</string>
+
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="select">Выбрать</string>
+
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="next">Далее</string>
+    <string name="seconds">сек</string>
+
+    <!--Настройки-->
+    <string name="timeSettings">Настройки</string>
+
+    <string name="inputTime">Введите время в секундах: </string>
+    <string name="selectTime">Выберите длительность таймера: </string>
+
+    <string name="sound_Settings">Звук</string>
+    <string name="soundLength_Settings">Длительность звука, сек</string>
+    <string name="soundLength_Limit">от 1 до 3 сек</string>
+
+    <string name="start_Settings">Старт</string>
+    <string name="minDelay_Settings">Минимальная задержка, сек</string>
+    <string name="sixteenSec_Limit">от 1 до 60 сек</string>
+    <string name="randDelay_Settings">Случайная задержка, сек</string>
+    <string name="twentySec_Limit">от 1 до 20 сек</string>
+
+    <string name="task_Settings">Задача</string>
+    <string name="timeForImplementation_Settings">Время выполнения, сек</string>
+
+    <string name="memory_Settings">Память</string>
+    <string name="minTime_Settings">Минимум, сек</string>
+    <string name="randTime_Settings">Случайное время, сек</string>
+
+    <string name="loop_Settings">Цикличность</string>
+
+    <string name="folder_Settings">Работа с папками</string>
+    <string name="selectFolder_Settings">Выбор папки</string>
+
+    <string name="audio_folder">Аудио</string>
+    <string name="pic_folder">Картинки</string>
+    <string name="text_folder">Текст</string>
+    
+    <string name="permTask">Разрешить задачу</string>
+    <string name="soundBeforeTask">Звук до задачи</string>
+    <string name="soundAfterTask">Звук после задачи</string>
+
+    <string name="inCorrectEntered">Не корректно введено число!</string>
+    <string name="tasksDisabled">Задачи выключены!</string>
+    <string name="noTasks">Нет задач!</string>
+    <string name="helpMenu">Help</string>
+    <string name="enableBeepAudio">Сигнал таймера</string>
+    
+    <!-- HELP -->
+    <string name="program_name">Программа "Случайные мишени"</string>
+        <string name="main_1">Программа помогает в развитии когнитивных функций – таких как память, внимание, эффективность реакции, способствует повышению стрессоустойчивости и принятию эффективных решений</string>
+        <string name="main_2">Развитие навыков обеспечиваются путём формирования базы/системы команд под мишенную и окружающую обстановку, используемые во время тренировки</string>
+        <string name="main_3">Во время работы программа случайным образом выбирает любую задачу из доступных типов. Задачи могут состоять из картинок, текста и аудио-команд. Пользователь в настройках может выбрать, какие типы задач будут использоваться во время работы программы</string>
+        <string name="main_4">Для лучшей эффективности команд можно попросить тренера или напарника составить задачи, чтобы тренирующийся не был с ними ознакомлен заранее путём самостоятельного составления</string>
+    <string name="settings">Настройки</string>
+        <string name="settings_1"><b>Звук (длительность звука)</b> – звуковой сигнал таймера</string>
+        <string name="settings_2"><b>Старт.</b> Время до активации задачи</string>
+        <string name="settings_3"><b>Задача.</b> Время на выполнение задачи. Рекомендуется устанавливать максимальное время, ориентируясь на самую длительную по выполнению задачу</string>
+        <string name="settings_4"><b>Память. </b>Время на запоминание задачи. При работе с аудио-командами отключено</string>
+        <string name="settings_5"><b>Цикличность.</b> Включено – непрерывное открытие задач. Выключено – разовое открытие задачи</string>
+        <string name="settings_6"><b>Папки с задачами.</b> Задачи следует разместить раздельно по типам в соответствующие папки – картинки, аудио и текст. На каждую выбирается разрешение для её опроса, а так же устанавливается звук таймера до или после воспроизведения задачи
+        </string>
+    <string name="examples">Примеры</string>
+        <string name="examples_1">Разнообразие задач зависит от типа мишеней, обстановки и фантазии пользователя. В задачу могут включаться не только стрелковые упражнения разной степени сложности, но и физические упражнения, а также их сочетания. Часть задач можно сформировать в
+виде ребусов, на сообразительность</string>
+        <string name="examples_2">В визуальных задачах можно расположить цвета – стрельба по цветным мишеням, например, по разноцветным воздушным шарикам, где на каждый цвет будет отдельная команда. Или сделать в задаче расположение цветных символов, цифр, форм – для запоминания и стрельбы по мишени с подобным расположением, как на рис.1
+        </string>
+    <string name="example_3">Для мишени на Рис.1 можно сформировать задачи текстом, голосом, картинками:</string>
+        <string name="example_31"><b>1. Синий треугольник, семь, 8</b></string>
+        <string name="example_32"><b>2. Красный круг</b></string>
+        <string name="example_33"><b>3. 2, девять, жёлтый квадрат, белый треугольник</b></string>
+        <string name="example_34"><b>4. Зелёный треугольник, синий треугольник, белый квадрат, 4</b></string>
+        <string name="example_35"><b>5. Три, два, четыре</b></string>
+        <string name="example_36"><b>6. Жёлтый (поражаются все жёлтые цели), на 12 (имеется ввиду цель на 12 часов – зелёный квадрат), стоп (ассоциация с запрещающим сигналом светофора)</b></string>
+        <string name="example_37">Данная мишень больше подходит для стрельбы из пистолета. Расположение на полигоне ростовых/грудных мишеней на разных дистанциях и положениях позволяет формировать различные задачи, например картинками</string>
+    <string name="visual">Визуальные</string>
+        <string name="visual_1">Перенос огня на разные дистанции</string>
+        <string name="visual_2">Перенос огня на разные дистанции и задание количества выстрелов</string>
+    <string name="sound">Звуковые</string>
+        <string name="sound_11"><b>1. Цель на час на 100</b></string>
+        <string name="sound_12"><b>2. Цель на 12 на 300</b></string>
+        <string name="sound_13"><b>3. Десять бёрпи</b></string>
+        <string name="sound_14"><b>4. Цель на 400. Пять лёжа</b></string>
+        <string name="sound_15"><b>5. Цель на 200. Третья слева</b></string>
+    <string name="sound_2">Звуковые можно сокращать. Пример изменённых выше команд:</string>
+        <string name="sound_21"><b>1. 100 на час</b></string>
+        <string name="sound_22"><b>2. 300 на 12</b></string>
+        <string name="sound_23"><b>3. Десять бёрпи</b></string>
+        <string name="sound_24"><b>4. 400. Пять лёжа</b></string>
+        <string name="sound_25"><b>5. 200. Третья слева</b></string>
+    <string name="text">Текстовые</string>
+        <string name="text_1"><b>1. Цель на 300. Пять лёжа (пять выстрелов лёжа в цель на 300 м.)
+Если на 300 м целей несколько, то можно формировать команды: цель на 300 на 11 (300 м на 11 часов). Цель на 300 вторая справа. И т.п
+</b></string>
+        <string name="text_2"><b>2. 10 бёрпи</b></string>
+        <string name="text_3"><b>3. Смена магазина. Неваляшка на 100</b></string>
+        <string name="text_4"><b>4. Цель на 100. 10 стоя</b></string>
+        <string name="text_5"><b>5. Цель на 200. 5 с колена</b></string>
+    <string name="task_files">Расположение файлов задач</string>
+        <string name="task_files_1">После установки программы, необходимо проверить наличие следующих папок:</string>
+        <string name="task_files_12"><b>/RandomTargets/Pictures – папка для визуальных задач</b></string>
+        <string name="task_files_13"><b>/RandomTargets/Text – папка для текстовых задач</b></string>
+        <string name="task_files_14"><b>/RandomTargets/Audio – папка для аудио задач</b></string>
+        <string name="task_files_2">Папки для задач создаются на SD-карте или внутренней памяти. Это зависит от версии политики безопасности Android. В случае отсутствия выше указанных папок, пользователь создаёт их самостоятельно в доступной памяти. После этого формирует задачи и размещает их в соответствующих папках.</string>
+        <string name="task_files_3">Для разных тренировочных площадок и обстановок рекомендуется создавать отдельные папки со своими задачами</string>
+    <string name="file_format">Поддерживаемые форматы</string>
+        <string name="file_format_1"><b>Текстовые задачи – *.txt</b></string>
+        <string name="file_format_2"><b>Визуальные – jpg, png, gif</b></string>
+        <string name="file_format_3"><b>Аудио – mp3, wav, ogg, m4a</b></string>
+</resources>
